@@ -32,7 +32,7 @@
 
 1463604778 c:\eli\2do parcial\2do-parcial\prueba_arraylist\arraylist.h
 
-1463604778 source:c:\eli\2do parcial\2do-parcial\prueba_arraylist\employee.c
+1529406796 source:c:\eli\2do parcial\2do-parcial\prueba_arraylist\employee.c
 	<stdio.h>
 	<stdlib.h>
 	<string.h>
@@ -55,4 +55,10 @@
 	"utn.h"
 
 1529346460 c:\eli\2do parcial\2do-parcial\prueba_arraylist\utn.h
+
+1528211018 source:c:\eli\2do parcial\2do-parcial\prueba_arraylist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
 

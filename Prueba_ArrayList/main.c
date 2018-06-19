@@ -21,9 +21,11 @@ int main()
     char seguir='s';
     int opcion=0;
     int retorno=-1;
+    int i;
 
     ArrayList* pEmpleados;
     FILE *pEmpl;
+    Employee *emp;
 
  /*   if((pEmpleados=al_newArrayList())==NULL);
     {
@@ -67,7 +69,15 @@ int main()
                 system("cls");
                 break;
             case 2:
+                printf(": %d", al_len(pEmpleados));
+                for (i=0; i< al_len(pEmpleados); i++ )
+                {
+                emp=(Employee*)al_get(pEmpleados,i);
+                printf("\n-%d-----%s, %s", emp->id, emp->lastName, emp->name);
 
+                }
+
+            break;
 
                 system("cls");
                 break;
