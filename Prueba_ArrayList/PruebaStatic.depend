@@ -24,3 +24,35 @@
 
 1463505789 /home/mauro/Descargas/ARRAY_LIB/LINUX_64/Employee.h
 
+1529342406 source:c:\eli\2do parcial\2do-parcial\prueba_arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1463604778 c:\eli\2do parcial\2do-parcial\prueba_arraylist\arraylist.h
+
+1463604778 source:c:\eli\2do parcial\2do-parcial\prueba_arraylist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1463604778 c:\eli\2do parcial\2do-parcial\prueba_arraylist\employee.h
+
+1529347423 source:c:\eli\2do parcial\2do-parcial\prueba_arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1529346460 source:c:\eli\2do parcial\2do-parcial\prueba_arraylist\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1529346460 c:\eli\2do parcial\2do-parcial\prueba_arraylist\utn.h
+
