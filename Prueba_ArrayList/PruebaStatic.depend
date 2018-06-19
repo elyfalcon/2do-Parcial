@@ -62,3 +62,41 @@
 	"ArrayList.h"
 	"Employee.h"
 
+1529408912 source:c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1529408912 c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\arraylist.h
+
+1529408912 source:c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\employee.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"Employee.h"
+
+1529408912 c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\employee.h
+
+1529408912 source:c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1529408912 source:c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\parser.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"Employee.h"
+
+1529408912 source:c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<conio.h>
+	<string.h>
+	"utn.h"
+
+1529408912 c:\test\elifalcon\2do parcial\2do-parcial\prueba_arraylist\utn.h
+

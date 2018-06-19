@@ -24,6 +24,7 @@ int main()
     int i;
 
     ArrayList* pEmpleados;
+    pEmpleados=al_newArrayList();
     FILE *pEmpl;
     Employee *emp;
 

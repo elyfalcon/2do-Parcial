@@ -20,6 +20,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "Employee.h"
+#include "ArrayList.h"
 
 int compareEmployee(void* pEmployeeA,void* pEmployeeB)
 {
@@ -72,5 +73,51 @@ Employee* newEmployee(int id, char name[],char lastName[],float salary,int secto
     return returnAux;
 
 }
+int em_setNombre(Employee* this,char* nombre)
+{
 
+    if(this !=NULL)
+    {
+        strcpy(this->name,nombre);
+    }
+    return 0;
+}
+
+
+
+Employee* nuevoEmpleado(int id, char* name,char* lastName,float* salario)
+{
+    Employee *emp;
+    emp=malloc(sizeof(emp));
+
+    if(emp !=NULL)
+    {
+
+    }
+
+
+}
+
+
+
+
+
+int AgregarEmp(char* apellido,char* nombre,float* salario)
+{
+    int returnAux=-1;
+    char aux_nombre[51];
+    char aux_ape[51];
+    float aux_salario;
+
+    if(emp !=NULL)
+        {
+        printf("Ingrese el nombre: ");
+        gets(emp->name);
+        prinf("Ingrese el apellido: ");
+        getc(emp->lastName);
+
+        }
+
+    return returnAux;
+}
 
